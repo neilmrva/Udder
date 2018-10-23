@@ -1,3 +1,3 @@
 # Udder
 
-This is a test app to text xcode git controls
+This is a test app to test xcode git controls
